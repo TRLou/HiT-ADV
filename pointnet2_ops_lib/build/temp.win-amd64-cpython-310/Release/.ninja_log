@@ -1,0 +1,10 @@
+# ninja log v5
+19	15581	7065279965378451	D:/Work/project/AdvPointNet/517/PC-AT/pointnet2_ops_lib/build/temp.win-amd64-cpython-310/Release/pointnet2_ops/_ext-src/src/sampling.obj	79bf5fb270c281f9
+14	15610	7065279965428473	D:/Work/project/AdvPointNet/517/PC-AT/pointnet2_ops_lib/build/temp.win-amd64-cpython-310/Release/pointnet2_ops/_ext-src/src/interpolate.obj	f988d52810aaa750
+1	15630	7065279965608504	D:/Work/project/AdvPointNet/517/PC-AT/pointnet2_ops_lib/build/temp.win-amd64-cpython-310/Release/pointnet2_ops/_ext-src/src/ball_query.obj	56b5f5108ba00760
+11	15655	7065279965768539	D:/Work/project/AdvPointNet/517/PC-AT/pointnet2_ops_lib/build/temp.win-amd64-cpython-310/Release/pointnet2_ops/_ext-src/src/group_points.obj	7f74c3257bb9f75d
+8	15740	7065279967078837	D:/Work/project/AdvPointNet/517/PC-AT/pointnet2_ops_lib/build/temp.win-amd64-cpython-310/Release/pointnet2_ops/_ext-src/src/bindings.obj	87b9bb85d7279a54
+6	64349	7065280452659795	D:/Work/project/AdvPointNet/517/PC-AT/pointnet2_ops_lib/build/temp.win-amd64-cpython-310/Release/pointnet2_ops/_ext-src/src/ball_query_gpu.obj	43a9d1dd60c99fbb
+12	64430	7065280452729805	D:/Work/project/AdvPointNet/517/PC-AT/pointnet2_ops_lib/build/temp.win-amd64-cpython-310/Release/pointnet2_ops/_ext-src/src/group_points_gpu.obj	41d868453ea749e5
+16	64963	7065280458888454	D:/Work/project/AdvPointNet/517/PC-AT/pointnet2_ops_lib/build/temp.win-amd64-cpython-310/Release/pointnet2_ops/_ext-src/src/interpolate_gpu.obj	65b33fee7a02068e
+22	66611	7065280475383719	D:/Work/project/AdvPointNet/517/PC-AT/pointnet2_ops_lib/build/temp.win-amd64-cpython-310/Release/pointnet2_ops/_ext-src/src/sampling_gpu.obj	889a91605239b147
